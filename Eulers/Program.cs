@@ -1,5 +1,5 @@
 using Eulers.EulerOne;
-
+using Eulers.EulerTwo;
 
 namespace EulerProblems
 {
@@ -9,9 +9,9 @@ namespace EulerProblems
 
         static void Main(string[] args)
         {
-            EulerOneSolution Problem1 = new EulerOneSolution();
+            //EulerOneSolution Problem1 = new EulerOneSolution();
 
-
+            FibonacciSequence Solution = new FibonacciSequence(100);
         }
     }
 }

@@ -44,7 +44,9 @@
   <ItemGroup>
     <Compile Include="EulerOne\EulerOneSolution.cs" />
     <Compile Include="EulerOne\ListOfMultiples.cs" />
+    <Compile Include="EulerTwo\AddNumbers.cs" />
     <Compile Include="EulerTwo\EulerTwoSolution.cs" />
+    <Compile Include="EulerTwo\FibonacciSequence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="EulerOne\SumOfList.cs" />
