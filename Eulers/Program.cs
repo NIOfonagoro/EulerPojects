@@ -11,7 +11,9 @@ namespace EulerProblems
         {
             //EulerOneSolution Problem1 = new EulerOneSolution();
 
-            FibonacciSequence Solution = new FibonacciSequence(100);
+            EulerTwoSolution Problem2 = new EulerTwoSolution();
+            
+
         }
     }
 }

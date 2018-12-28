@@ -14,10 +14,7 @@ namespace Eulers.EulerTwo
             return num1 + num2;
         }
 
-        public int FibonacciAdd(FibonacciSequence list)
-        {
-           return (list[list.Count - 1] + list[list.Count() - 2]);
-        }
+
 
     }
 }

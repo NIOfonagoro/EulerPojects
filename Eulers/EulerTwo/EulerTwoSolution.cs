@@ -14,7 +14,10 @@ namespace Eulers.EulerTwo
             Console.WriteLine("1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...");
             Console.WriteLine("By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms");
 
-           
+            FibonacciSequence Solution = new FibonacciSequence();
+            Solution.CreateSequence(4000000);
+            EvenFibonacci SolutionPart2 = new EvenFibonacci(Solution);
+            SolutionPart2.SumOfList(SolutionPart2);
         }
     }
 }
