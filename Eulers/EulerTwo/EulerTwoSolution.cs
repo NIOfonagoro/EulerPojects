@@ -18,6 +18,7 @@ namespace Eulers.EulerTwo
             Solution.CreateSequence(4000000);
             EvenFibonacci SolutionPart2 = new EvenFibonacci(Solution);
             SolutionPart2.SumOfList(SolutionPart2);
+            Console.WriteLine("");
         }
     }
 }

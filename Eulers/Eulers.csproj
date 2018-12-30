@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="EulerOne\EulerOneSolution.cs" />
     <Compile Include="EulerOne\ListOfMultiples.cs" />
+    <Compile Include="EulerThree\EulerThreeSolution.cs" />
+    <Compile Include="EulerThree\PrimeNumbers.cs" />
     <Compile Include="EulerTwo\AddNumbers.cs" />
     <Compile Include="EulerTwo\EulerTwoSolution.cs" />
     <Compile Include="EulerTwo\EvenFibonacci.cs" />

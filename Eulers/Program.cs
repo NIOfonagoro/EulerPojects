@@ -1,4 +1,5 @@
 using Eulers.EulerOne;
+using Eulers.EulerThree;
 using Eulers.EulerTwo;
 
 namespace EulerProblems
@@ -11,7 +12,9 @@ namespace EulerProblems
         {
             //EulerOneSolution Problem1 = new EulerOneSolution();
 
-            EulerTwoSolution Problem2 = new EulerTwoSolution();
+            //EulerTwoSolution Problem2 = new EulerTwoSolution();
+
+            EulerThreeSolution Problem3 = new EulerThreeSolution();
             
 
         }
