@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Eulers.EulerOne
 {
-    internal class UnionOfLists : List<int>
+    public class UnionOfLists : List<int>
     {
         public UnionOfLists(List<int> MultiplesOne, List<int> MultiplesTwo)
         {

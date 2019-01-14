@@ -2,7 +2,7 @@
 
 namespace Eulers.EulerOne
 {
-    internal class ListOfMultiples : List<int>
+    public class ListOfMultiples : List<int>
     {
         public ListOfMultiples(int multiple, int max)
         {

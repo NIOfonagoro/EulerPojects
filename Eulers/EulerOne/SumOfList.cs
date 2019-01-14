@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Eulers.EulerOne
 {
-    internal class SumOfList
+    public class SumOfList
     {
         public int total { get; set; }
 

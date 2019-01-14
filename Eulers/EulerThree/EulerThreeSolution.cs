@@ -15,7 +15,7 @@ namespace Eulers.EulerThree
 
             //Round down Square root of question. For loop cycling through incremental steps seeing if divisible with no remainder. Add to list if so.
             PrimeNumbers Solution = new PrimeNumbers(1000);
-            Console.WriteLine(Solution.Max());
+            //Console.WriteLine(Solution.Max());
             Console.WriteLine("");
 
 
